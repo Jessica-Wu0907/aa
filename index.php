@@ -19,7 +19,7 @@
                 <nav>
                     <ul class="nav-list">
                         <li>
-                            <a href="">home</a>
+                            <a href="#home">home</a>
                         </li>
                         <li>
                             <a href="">protfolio</a>
